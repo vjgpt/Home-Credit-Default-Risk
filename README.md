@@ -5,6 +5,10 @@ Many people struggle to get loans due to insufficient or non-existent credit his
 
 While Home Credit is currently using various statistical and machine learning methods to make these predictions, they're challenging Kagglers to help them unlock the full potential of their data. Doing so will ensure that clients capable of repayment are not rejected and that loans are given with a principal, maturity, and repayment calendar that will empower their clients to be successful.
 
+## Dataset
+Find out the dataset here :
+
+https://www.kaggle.com/c/home-credit-default-risk/data
 ## Installation
 - Download this repository in a zip file by clicking on this link or execute this from the terminal:
 
