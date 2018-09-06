@@ -25,6 +25,8 @@ https://www.kaggle.com/c/home-credit-default-risk/data
 - Matplotlib
 - Seaborn
 - Garbage Collector( gc )
+- Light GBM
+- K-Fold
 
 ## Table of Content
 
