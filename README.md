@@ -1,5 +1,6 @@
 # Home-Credit-Default-Risk
 
+## Link to the kernel: https://www.kaggle.com/vjgupta/large-dataset-with-simple-model-home-credit
 ## Introduction
 Many people struggle to get loans due to insufficient or non-existent credit histories. And, unfortunately, this population is often taken advantage of by untrustworthy lenders.
 
